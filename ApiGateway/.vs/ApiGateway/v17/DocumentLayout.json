@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|c:\\users\\guruprasadraikar\\desktop\\training\\weeks\\coding test\\products\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{845198A9-7BC2-49D2-AD1C-73A2800BA05A}|ApiGateway.csproj|solutionrelative:apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:40:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ApiGateway.http",
+              "RelativeDocumentMoniker": "ApiGateway.http",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ApiGateway.http",
+              "RelativeToolTip": "ApiGateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-19T04:21:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T06:47:37.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T07:20:51.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T04:21:31.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T07:24:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ocelot.json",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T06:42:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\GuruprasadRaikar\\Desktop\\Training\\Weeks\\Coding test\\Products\\ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:29:27.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
